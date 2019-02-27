@@ -1,0 +1,17 @@
+{
+  "name": "blog-app",
+  "version": "1.0.0",
+  "description": "Blog app",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "none"
+  },
+  "author": "Masoud",
+  "license": "ISC"
+}
