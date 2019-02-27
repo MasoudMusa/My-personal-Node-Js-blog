@@ -10,7 +10,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "none"
+    "test": "none",
+    "start":"node indexjs"
   },
   "author": "Masoud",
   "license": "ISC"
