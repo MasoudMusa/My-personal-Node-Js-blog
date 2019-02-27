@@ -11,7 +11,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "none",
-    "start":"node indexjs"
+    "start":"node index.js"
   },
   "author": "Masoud",
   "license": "ISC"
